@@ -51,7 +51,7 @@ My Github is https://github.com/juicyjerrry
 You can reach me via email at kendljeremiah@gmail.com
 
 Below is the link to my demo video on my Github:
-- [Video location in Github](https://github.com/juicyjerrry/thought-machine/tree/main/assets/video)
+- [Video location in Github](https://github.com/juicyjerrry/Thought-Machine/blob/main/assets/video.webm)
 
-![Gif of Site](../thought-machine/assets/gif.gif)
+[Gif of Site](https://github.com/juicyjerrry/Thought-Machine/blob/main/assets/gif.gif)
 
